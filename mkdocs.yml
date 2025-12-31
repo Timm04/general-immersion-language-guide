@@ -8,6 +8,7 @@ nav:
     - Home: 'Introduction/home.md'
     - Motivation: 'Introduction/problematic surrounding immersion.md'
   - 'Prerequisites':
+    - Lead in: 'Tradtional methods/lead in.md'
     - Traditional Methods: 'Tradtional methods/Methods.md'
     - How Natives Are Made: 'Native Language/how natives are made.md'
   - 'Immersion Guide':
@@ -24,6 +25,7 @@ theme:
     - navigation.top
     - navigation.sections
     - navigation.expand
+    - navigation.footer
     - palette.toggle
   palette:
     - scheme: default
@@ -43,6 +45,7 @@ markdown_extensions:
         permalink: true
         toc_depth: 2-4
   - admonition
+  - attr_list
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid

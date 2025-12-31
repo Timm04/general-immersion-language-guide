@@ -14,15 +14,17 @@ This creates a big problem for new comers to start learning not only Japanese bu
 
 ## The mental toil of "Just trust the process"
 
+![kuyamigoto](../assets/images/nayamigoto.png)
+
 "Trust the process" is necessary but not enough. Without understanding how and why the process works how are you supposed to trust it in the first place. This missing piece sets up learners for a specific kind of enemy; your mind:
 
-Confusion: Should I understand everything I'm reading or listening? How much should I learn each day? How much time should I spend per sentence? How do I know if I understood something correct?
+- **Confusion**: Should I understand everything I'm reading or listening? How much should I learn each day? How much time should I spend per sentence? How do I know if I understood something correct?
 
-Self-doubt: Is what am I doing right? Is this effective? Will this work for me? Maybe I should try something else because this doesn't feel right. Is this too hard for me? Am I too dumb? Everybody seems to read for so long while I can "only" manage one hour.
+- **Self-doubt**: Is what am I doing right? Is this effective? Will this work for me? Maybe I should try something else because this doesn't feel right. Is this too hard for me? Am I too dumb? Everybody seems to read for so long while I can "only" manage one hour.
 
-Comparison: Arbitrary benchmarks like hours spent immersing, words learned or reading speed. All sources of dread not motivation. You can even feel judged by some kind invincible standard and the joy of learning gets replaced by pressure and anxiety.
+- **Comparison**: Arbitrary benchmarks like hours spent immersing, words learned or reading speed. All sources of dread not motivation. You can even feel judged by some kind invincible standard and the joy of learning gets replaced by pressure and anxiety.
 
-Burnout and Lethargy: The combination of these points are a perfect recipe for burnout. Learners don't just quit the method, they write off language learning as a whole, convinced they "can't just do it." This isn't unique to beginners, even long time learners hit a intermediate plateau not knowing how to overcome it.
+- **Burnout and Lethargy**: The combination of these points are a perfect recipe for burnout. Learners don't just quit the method, they write off language learning as a whole, convinced they "can't just do it." This isn't unique to beginners, even long time learners hit a intermediate plateau not knowing how to overcome it.
 
 The irony is: Immersion works. But the very communities that champion it often fail to provide the right psychological and methodological framework needed to survive it. Only a small amount of stubborn and relentless people pushed through this fog of confusion, self doubt and comparison to reach high proficiency.
 
@@ -37,6 +39,8 @@ The current language immersion guides fail in two ways:
 This guide exists to fill these gaps. It's not a list of resources and tools. It's a guidebook on the immersion mindset. Drawing from my experiences as a member and leadership roles in these communities this guide aims to deconstruct confusion, provide the missing theory and equip you with the physiological tools to navigate through teaching yourself a language with immersion.
 
 ## Judge your own motivation - Look inward
+
+![mirror](../assets/images/mirror.gif)
 
 I strongly advice you to reflect upon your motivation to study a language. 
 If you do not go through a similar exercise do not waste a minute of your time studying a language or anything for that matter. 
@@ -69,6 +73,8 @@ If you are not motivated right now to study a language you will not be successfu
 I cannot stress enough how imperative it is to be motivated especially with language learning and especially with immersion where you are responsible for yourself. 
 Language learning is a trifecta built upon three things. Your success depends on these. If you got those three things you will succeed. 
 
+![trifecta](../assets/images/trifecta.png){:.large-image }
+
 1. Motivation or fun: The primary driver. It makes consistency possible.
 2. Time: Raw hours you put in.
 3. Method: Traditional method, Immersion method, etc.
@@ -84,6 +90,8 @@ Your motivation can range from a passionate life goal to simple curiosity. It ca
 Having that something is important!
 
 ## Essence of immersion - Learn and hike
+
+![tozan](../assets/images/tozan.png)
 
 Language learning is not a race. It's not a battle nor a competition who can spend the most time learning or who can comprehend the hardest things or who reads the fastest. It's not about who knows the most words or sounds the most native like or passes the hardest exams. It's not a marathon who has studied the language the longest time.
 Everybody has their own motivation and interests out of which their own personal goals emerge and come forward. Based on these goals everybody has their own things they should focus on to accomplish. Everybody perceives the world differently and **uniquely** thus have they own goals. Even if two people got the same goal they reach it by different means and experience. 

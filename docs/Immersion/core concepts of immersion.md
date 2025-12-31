@@ -99,10 +99,11 @@ The are more reasons why „i+1“ is not really achievable. If you are interest
 
 We'll use the last sections about „i+1“ as motivation for defining a guiding principle, a framework so to speak, for choosing what to immerse with. We’ll also bring in the final key idea from [What Immersion tries to achieve](../Definition of immersion/immersion definition.md#key-takeaways); enjoyment. To illustrate this, I want to show you a quote that pretty much sums up immersion in slightly meme-y way yet real way:
 
-"Step 1: do fun stuff
-Step 2: don't do boring stuff"
-
-- Dinuz January 2022
+> "Step 1: do fun stuff
+>
+> Step 2: don't do boring stuff"
+>
+> — Dinuz, January 2022
 
 This quotes here highlights one of the most if not the most important aspect of immersion. It reminds us that immersion, no language learning is at the end of the day a hobby you do for fun. While the goals for learning a foreign language might be different for everyone, the reason why people continue doing immersion does not. It's all fun after all. This is because with immersion we let **our interests guide us**. Unlike with school classes where we are most often forced to engage with material that is most often boring and not important to us personally in any way, with immersion we have the freedom to choose to immerse in everything we are interested in and thus enjoy it. 
 
@@ -123,4 +124,4 @@ Basically we are juggling enjoyment(=comprehensive) and challenging (=ambiguity)
 To iterate again, enjoying something is another way to say you understand something enough to well enjoy it. 
 For something to be challenging can mean different things. Challenging can be when you know all the words but not the grammar in a sentence or vice versa. Challenging can be even when you understand every word and grammar but still need your time to understand what is actually being said for example missing some culture clue. What challenging means in immersion, is having content where most sentences, if not all, have at max 2-3 unknown pieces of information you don't know. At best every sentence has 1 unknown information, meaning the context of the sentence can help you remember the word as well, i.e the impression will be greater than if you juggle multiple unknown pieces of information in a sentence which will make the context less impactful and more vague.
 
-Everything comes down to your comprehension, so how do you comprehend something? What is the tool that helps you put in effort i.e comprehend a sentence? Introducing # How to start Immersion - Mining.
+Everything comes down to your comprehension, so how do you comprehend something? What is the tool that helps you put in effort i.e comprehend a sentence? Introducing [How to start Immersion - Mining](How to start Immersion - Mining.md#how-to-start-immersion-mining).

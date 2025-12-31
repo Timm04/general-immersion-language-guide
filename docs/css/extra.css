@@ -44,3 +44,15 @@
 .md-main__inner {
     max-width: 70rem;
 }
+
+/* Center standalone images in content */
+.md-typeset img {
+    display: block;
+    margin: 1.25rem auto;
+    max-width: 35%;
+}
+
+/* Larger images with specific class */
+.md-typeset img.large-image {
+    max-width: 70%;
+}

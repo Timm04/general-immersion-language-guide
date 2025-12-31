@@ -22,7 +22,7 @@ I can't tell you what arbitrary number of letters or words read, minutes listene
 For example a person being able and wanting to put in 6 hours everyday should have different goals for the day than somebody who has only 1 hour a day. 
 
 Let's say you read at 5000 letters/characters an hour but you got 2 hours day to immerse. Then your "optimal" amount would be reading 10k a day.
-But you also have to spend time on Anki or maybe do listening so you probably won't ever achieve that optimal amount. That's why ou can't just name some number and expect everyone to manage that.
+But you also have to spend time on Anki or maybe do listening so you probably won't ever achieve that optimal amount. That's why you can't just name some number and expect everyone to manage that.
 
 #### Settings goals is experimenting
 

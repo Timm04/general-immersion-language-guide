@@ -52,8 +52,7 @@ In the morning, you start again. You shower, get dressed, and walk pocklent. You
 
 “Bingle for help!” you shout. “This loopity is dying!” You put your fingers on her neck. Nothing. Her flid is not weafling. You take out your joople and bingle 119, the emergency number in Japan. There’s no answer! Then you muchy that you have a new befourn assengle. It’s from your gutring, Evie. She hunwres at Tokyo University. You play the assengle. “…if you get this…” Evie says. “…I can’t vickarn now… the important passit is…” Suddenly, she looks around, dingle. “Oh no, they’re here! Cripett… the frib! Wasple them ON THE FRIB!…” BEEP! the assengle parantles. Then you gratoon something behind you…
 
-In our model of 80-85% comprehension and 15-20% challenge, the range 80-85% is here the around 95% comprehension.
-https://www.sinosplice.com/life/archives/2016/08/25/what-80-comprehension-feels-like
+In our model of 80-85% comprehension and 15-20% challenge, the range 80-85% is here the around 95% comprehension. [Reference source](https://www.sinosplice.com/life/archives/2016/08/25/what-80-comprehension-feels-like)
 
 What matters is that **whenever you are unsure about a anything in a sentence you use Yomitan to look it up**. That's the only time you will be "translating". By looking the things you don't know in Yomitan, you're reducing the ambiguity as much as you can.  
 
@@ -142,7 +141,7 @@ Different dictionaries will describe the same word differently will make underst
 
 #### When to switch to monolingual dictionaries
 
-When reading becomes easier 
+*To be added*
 
 
-10. monoglingual transition (why, when, how(david guide rereading monolingual def after bilingual))
+

@@ -1,11 +1,3 @@
-## Distinction between the native approach and immersion
-
-Unlike how natives learned their language, where they were constantly surrounded by their language physically, not necessarily understanding, contents that native speakers of the language would also consume, **immersion** adds one condition: the material i.e the input you immerse in is understandable enough for you to be enjoyable and challenging. Natives were often exposed to high ambiguity and low comprehension whereas with immersion we set ourselves up for success by immersing only with material thats comprehensible enough for us to learn from. 
-
-Think of the *native approach* as being thrown into a water, where you're being put into an environment where you forced to *swim* in the language i.e immerse in it, much like how we naturally acquired our native tongue as children. However **immersion** is more like easing your way into the water gradually with floaties keeping you afloat. You're still in the water, but supported at the right level so you can actually learn to swim.
-
-The same way how we grew up while being surrounded by our native language and becoming so proficient in it, **immersion** also does the same but **faster, more efficiently and enjoyable**. It's an improved form. In a way, you reading this guide is you doing immersion in English, because it's written for natives of the English language, its comprehensible for you and at least a bit interesting since you are reading this.
-
 ## What Immersion tries to achieve
 
 Immersion is by design aiming to make you reach native level in your target language. By consistently following it you will pick up the language as well as nuances in grammar, word usage, pronunciation and readings without you having realized you learned them consciously. Most of the time while immersing you don't realize or feel like you are actually learning something, but you actually are, albeit unconsciously. You probably heard of the brain being referred to as a sponge and we are capitalizing on that with immersion, where we consistently expose ourself to the language in large comprehensible amounts for our brain to acquire the language naturally. 
@@ -22,9 +14,19 @@ Choosing immersion material that is also enjoyable for you **makes your time lea
 
 These two factors make up the bottom line when choosing what to immerse in. How you actually choose immersion material and in what proportions these two factors should inter play will be discussed later on in # How to choose what to immerse in. For now I want you to take away the following.
 
+## Evaluating the improved native approach - Immersion
+
+Recalling our three criteria for a good method:
+
+1. **You actually acquire the language to your desired level**: Since we are consuming content (books, shows, games, videos) made by natives for natives, we learn how the language is actually used with all it's nuances, slang and cultural context. You end up deciding what you consume yourself so immediately you acquire functional and attrition-proof because it's tied to meaningful content you enjoy.
+
+2. **The time it takes you to reach your goal**: [The power of Immersion](Introduction/problematic surround immersion.md#the-power-of-immersion)
+
+3. **Enjoyment**: Follows from 1. Immersion by design requires the content you consume to be enjoyable for you. This creates a positive feedback loop: You enjoy the content or learning the language, which makes you consume more, which accelerates your acquisition, which allows you to enjoy even more content.
+
 ## Key takeaways
 
-- Immersion is engaging i.e immersing with material in your target language made by natives for natives. Basically the same things a native would consume we try to consume as well. Hereby we don't choose just any immersion material but material thats **comprehensible and enjoyable** for us. What this actually means for us will be discussed in the next section.
+- Immersion is engaging i.e immersing with material in your target language made by natives for natives. Basically the same things a native would consume we try to consume as well. Hereby we don't choose just *any* immersion material but material thats **comprehensible and enjoyable** for us. What this actually means for us will be discussed in the next section.
 
 - Immersion also has to be done **consistently** to work. Just like any skill, you need to consistently use it to not forget it.
 

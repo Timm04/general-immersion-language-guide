@@ -60,6 +60,9 @@ With that being said, nobody can or should be able to judge you for immersing in
 Sometimes whats most enjoyable is not the most efficient way to achieve your goals. 
 
 ### Analogy
+
+![konbiniimg](../assets/images/conbinianalogz.png)
+
 To illustrate that, imagine your mom tells you to go to the grocery store and buy steak. So you go there and on the way you see your favorite chocolate thats on sale so you decide to stop by and throw it into your basket. Now at the cashier you pay and leave the store. While going back home, eating your newly bought chocolate, you see the kiosk and remember the magazine that you're interested in released a new issue today. So you quickly eat up your chocolate and go into the kiosk to read for a bit before leaving going back home. At home now, you give your mom your steak and she's happy and prepares dinner.
 
 You're mom is probably not going to scold you for spending money and time buying a chocolate and reading some magazine at the kiosk, because she doesn't need the steak right away as fast as possible. But speaking from an efficiency perspective you could have probably bought the chocolate another time or went back home first and then went to read that magazine at the kiosk. With immersion its the same.
@@ -119,7 +122,11 @@ The interesting part is that reading-based immersion learners who also did some 
 
 #### Solution: Just read more
 
-"Reading is KING." - JJ or "JUST READ" - a meme
+![readomreimg](../assets/images/readmore.png)
+
+>"Reading is KING." 
+>
+> - JJ
 
 Reading is a high quality exposure input channel. It allows for precise, slow mapping of words to meaning. it exposes you to wider, more complex, varied and more precise vocabulary and grammar. This foundation you got from reading then enables your listening. When you hear loads of sounds your brain now is matching it against a richer more detailed mental map. **You're not just parsing sounds; you are retrieving known words and structures.**
 
