@@ -24,7 +24,7 @@ If subtitles are available for your target language then use them. As a beginner
 
 ## How to improve your listening as a beginner 
 
-Look # Just read more. If you pause and try to relisten to things you heard and still don't understand them, don't be discouraged this is normal. Just [move on](How to start Immersion - Mining.md#7-move-on).
+Look [read more](types of immersion.md#solution-just-read-more). If you pause and try to relisten to things you heard and still don't understand them, don't be discouraged this is normal. Just [move on](How to start Immersion - Mining.md#7-move-on).
 
 ### When to stop using subtitles 
 
