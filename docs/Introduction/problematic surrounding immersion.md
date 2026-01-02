@@ -103,7 +103,7 @@ Having that something is important!
 
 ![tozan](../assets/images/tozan.png)
 
-Language learning is not a race. It's not a battle nor a competition who can spend the most time learning or who can comprehend the hardest things or who reads the fastest. It's not about who knows the most words or sounds the most native like or passes the hardest exams. It's not a marathon who has studied the language the longest time.
+Language learning is not a race. It's not a battle nor a competition who can spend the most time learning or who can comprehend the hardest things or who reads the fastest. It's not about who knows the most words or sounds the most native like or passes the hardest exams nor about who has studied the language the longest time.
 Everybody has their own motivation and interests out of which their own personal goals emerge and come forward. Based on these goals everybody has their own things they should focus on to accomplish. Everybody perceives the world differently and **uniquely** thus have they own goals. Even if two people got the same goal they reach it by different means and experience. 
 
 So logically you can't really compare yourself to others, yet there are people who can't help themselves but indulge in this act once in a while nonetheless and most often in a self destructive manner. 
