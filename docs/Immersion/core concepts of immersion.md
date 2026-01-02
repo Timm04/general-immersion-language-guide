@@ -2,17 +2,27 @@
 
 ## When to start Immersion
 
-**You start when you feel ready.** This could be after having learned the most frequent 1000 words in a language and having read through basic grammar. This could be done after having learned your target language to some extent in school or in language classes and you feel comfortable enough to engage with native material. This could be done after having gone through courses on websites where you learn basic phrases, grammar and vocabulary. All what matters is you having a **decent foundation in the target language**.
+Because of this guides general approach I cannot pin point a specific point when you start Immersion at. Even for specific language it would be still hard to find and define a specific level of proficiency that is best suited to dive into easy native material. As such I can only say **you start when you feel ready.** 
+
+This could be after having learned the most frequent 1000 words in a language and having read through basic grammar guides. This could be done after having learned your target language to some extent in school or in language classes and you feel comfortable enough to engage with native material. This could be done after having gone through courses on websites where you learn basic phrases, grammar and vocabulary. All what matters is you having a **decent foundation in the target language**.
 
 The cleanest and most recommended path to establish said foundation is by having done an Anki deck of the most frequent used words, while having done basic grammar study alongside. If you have some experience with your target language already then going through such an Anki deck and basic grammar study nonetheless doesn't hurt. 
-It's important to not learn any vocab but actually frequently used vocab first, because it eases your way into doing immersion. The more frequent words you know the easier your first immersion experience will be. Same goes for grammar, the more you know about your target language's grammar the easer time you will have to parse and understand it.
+When doing these start Anki decks, it's best to not learn any vocab but actually frequently used vocab first, because it eases your way into doing immersion. The more frequent words you know the easier your first immersion experience will be. Same goes for grammar, the more you know about your target language's grammar the easer time you will have to parse and understand it.
 Although this doesn't mean you should learn tons of vocab as in in the thousands and memorize every grammar pattern there is to begin with. The goal in this stage is to get a **decent and rough foundation** not memorize the target language. 
 
-Basically you need to know enough of your target language to start immersing in easy native material. Decent means here knowing at maximum 1.5k words, which also means you could start of with less like 1k words. Rough means knowing basic grammar, not doing rote memorization, but grasping the gist of how your target language works such as sentence structure and basic grammar. Combining these two factors is a foundation considered comfortable enough to start immersing. 
+!!! note "Language specific requirements"
+    
+    Depending on your target language you might need to learn the writing system or parts of it first before going through a vocab deck in Anki.
 
-Depending on your target language you might need to learn the writing system or parts of it first before going through a vocab deck in Anki.
+!!! success "Start when"
+    
+    - You know around 1000-1500 words. You could start off with less than 1k words as well but I wouldn't recommend it.
 
-For Anki decks refer to https://ankiweb.net/shared/decks or to your language specific immersion guide as immersion learning communities have their own starter deck and starter grammar resources.
+    - You have a rough understanding of your target language's grammar. You can name and recognize things like basic grammar particles and explain how they work. You have a rough idea how of sentence structure and how your target language works.
+    
+    Combining these two factors builds a foundation comfortable enough to start immersing. 
+
+For Anki decks refer to [shared decks](https://ankiweb.net/shared/decks) or to your language specific immersion guide as immersion learning communities have their own starter deck and starter grammar resources.
 
 ## What "comprehensible enough" means - i+1
 
