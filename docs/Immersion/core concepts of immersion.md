@@ -119,7 +119,7 @@ The are more reasons why „i+1“ is not really achievable. If you are interest
 
 ---
 
-## How to choose what to immerse in - What to look for in immersion material - Importance of enjoyment
+## What to look for in immersion material - Importance of enjoyment
 
 We'll use the last sections about „i+1“ as motivation for defining a guiding principle, a framework so to speak, for choosing what to immerse with. We’ll also bring in the final key idea from [What Immersion tries to achieve](../Definition of immersion/immersion definition.md#key-takeaways); enjoyment. To illustrate this, I want to show you a quote that pretty much sums up immersion in slightly meme-y way yet real way:
 
@@ -129,7 +129,7 @@ We'll use the last sections about „i+1“ as motivation for defining a guiding
 >
 > — Dinuz, January 2022
 
-This quotes here highlights one of the most if not the most important aspect of immersion. It reminds us that immersion, no language learning is at the end of the day a hobby you do for fun. While the goals for learning a foreign language might be different for everyone, the reason why people continue doing immersion does not. It's all fun after all. This is because with immersion we let **our interests guide us**. Unlike with school classes where we are most often forced to engage with material that is most often boring and not important to us personally in any way, with immersion we have the freedom to choose to immerse in everything we are interested in and thus enjoy it. 
+This quote here highlights one of the most if not the most important aspect of immersion. It reminds us that immersion, no language learning is at the end of the day a hobby you do for fun. While the goals for learning a foreign language might be different for everyone, the reason why people continue doing immersion does not. It's all fun after all. This is because with immersion we let **our interests guide us**. Unlike with school classes where we are most often forced to engage with material that is most often boring and not important to us personally in any way, with immersion we have the freedom to choose to immerse in everything we are interested in and thus enjoy it. 
 
 ---
 
