@@ -20,7 +20,21 @@ Move on. Don't mine it just move on. If you just don't understand a sentence eve
 
 You can do this because no almost no grammar pattern or word is used once. The sheer amount of immersion i.e exposure to the target language will balance out "skipping" one word or sentence. I should not even say skipping here since you didn't skip it, you put in effort and just weren't able to understand it this time and thats part of the process, thats part of learning. 
 
-That's why its not detrimental to move on, because you will revisit whatever you "missed out on" sooner or later be it consciously when you remember from last time you saw what ever you didn't understand or unconsciously seeing that expression again. Like said Immersion is not about understand everything every time 100%, its the consistency and effort to understand everything that counts!
+That's why its not detrimental to move on, because you will revisit whatever you "missed out on" sooner or later be it consciously when you remember from last time you saw what ever you didn't understand or unconsciously seeing that expression again. Immersion is not about understanding everything every time 100%, its the consistency and effort to understand everything you cana that counts! But don't become comfortable not understanding a sentence and just getting the gist! 
+
+!!! warning "When this becomes a problem"
+
+    If you happen to be here very often, then this might be a sign that whatever you're immersing with might be too hard for you right now. If you keep on immersing with something that is too hard for you, then you run danger of wasting time and burning out. Being here is the exception not the norm. Reference [when to drop things you are immersing with](../Immersion/roadmap.md#when-to-drop-things-you-are-immersing-with)
+
+
+You can move on after you have gone through steps 1-5 (reading the sentence -> checking comprehension -> Looking up with Yomitan -> rereading sentence -> checking comprehension), meaning you:
+
+1. Tried your best to understand the sentence multiple times
+
+2. Looked up everything you can to the best of your ability
+
+3. Still couldn't make sense of the sentence
+
 
 #### <span style="color: var(--md-typeset-a-color);">Last resort</span>
 
