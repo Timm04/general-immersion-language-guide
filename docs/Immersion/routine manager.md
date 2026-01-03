@@ -30,7 +30,7 @@ But you also have to spend time on Anki or maybe do listening so you probably wo
 
 1. You can set aside an amount of time you want to read everyday or listen and record how much you managed that day.
 2. After a week, so 7 days, you sum up your amount of reading you did as in time or letters/characters and how many minutes you listened.
-3. Divided everything by 7.
+3. Divide everything by 7.
 
 Then you got your daily average which is manageable for you.
 Now try to figure how how much you are actually capable of as in maybe you could do more than your daily average. You could have a week or just a day where you push yourself beyond that daily average and ask yourself following questions:
