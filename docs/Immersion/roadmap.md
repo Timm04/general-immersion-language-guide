@@ -96,7 +96,7 @@ Building upon [Cost of "optimal" methods](#cost-of-optimal-methods), the only cr
 
 I'm not suggesting you to drop doing things like Anki because you maybe dreading it. [Anki is important](Anki in Immersion.md) and you should continue doing it unless you are more [advanced](Anki in Immersion.md#when-you-can-stop-doing-anki).  
 
-You need to find out what you can sustain i.e stomach on your day to day basis to improve at your pace in the long term. [:octicons-arrow-right-24: Routine management in Immersion](routine manager.md)
+You need to find out what you can sustain i.e stomach on your day to day basis to improve at your pace in the long run. [:octicons-arrow-right-24: Routine management in Immersion](routine manager.md)
 !!! question "Am I looking forward to my main language activity today?"
 
     If the answer is consistently no, then in most cases change your activity, unless you can sustain it, considering [Cost of "optimal" methods](#cost-of-optimal-methods)
