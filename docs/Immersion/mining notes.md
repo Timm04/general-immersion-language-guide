@@ -99,10 +99,10 @@ Rinse and repeat this process for the monolingual transition.
 
 - A lot of unknown words
 
-You will probably be "dictionary diving" and looking up words within dictionaries popups. The word you don't know within dictionaries are just normal words you just don't know yet so to fix that [read more](types of immersion.md#solution-just-read-more). You can mine these words within dictionaries but keep in mind [when to mine and when not mine](../Mining/step-5-mine-it.md#when-to-mine-and-not-mine).
+You will probably be "dictionary diving" and looking up words within dictionaries popups. The word you don't know within dictionaries are just normal words you just don't know yet so to fix that [read more](types of immersion.md#solution-just-read-more). You can mine these words within dictionaries but keep in mind [when to mine and when not mine](../Mining/step%205%20mine%20it.md#when-to-mine-and-not-mine).
 
 !!! note "Small anecdote"
-    I remember mining a word once 5 dictionary pop-ups deep. Meaning I looked up a word within a definition within a definition within a definition within a definition. Let's try to avoid diving!
+    I remember mining a word once 5 dictionary pop-ups deep. Meaning I looked up a word within a definition within a definition within a definition within a definition. Let's try to avoid deep diving!
 
 ---
 
