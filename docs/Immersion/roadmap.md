@@ -90,6 +90,8 @@ There is no universal optimum. Even if a method is 100% "efficient" at teaching 
 
     The **Δ(Long-Term Utility)** must be greater than the **Δ(Cognitive Cost)** and **Δ(Motivation Loss)**. In layman's terms: The value you get out of immersing with something like getting better at comprehension, which also leads to more choice for content to immerse with, that value must be more important **to you** than the potential negative aspects, like stress or the time you invest to get there, affecting you. You must be able to stomach what you  immerse in otherwise the stress becomes to much and your motivation depletes.
 
+:octicons-arrow-right-24: See the [TLU model](#total-life-time-utility-model) be applied in [Trade of between enjoyment and efficiency](#trade-of-between-enjoyment-and-efficiency).
+
 ### <span style="color: var(--md-typeset-a-color);">Sustainability is only the meaningful metric</span>
 
 Building upon [Cost of "optimal" methods](#cost-of-optimal-methods), the only criterion that matters is sustainability.
