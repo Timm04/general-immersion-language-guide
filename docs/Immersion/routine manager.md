@@ -105,7 +105,7 @@ Progress is hard to measure with immersion so it's important to drive home the p
 
 #### <span style="color: var(--md-typeset-a-color);">Disruptions as learning opportunity</span>
 
-Expect it to fail. Life happens and you get busy. A disruption isn't a failure; it's an opportunity for you to evaluate, adjust and overcome. Don't think bad of yourself for missing a day or missing a daily goal. Use it as a learning experience to learn from and adjust accordingly. Being able to do something for a long periods of time consistently is realizing and practising this.
+Expect daily goals to fail. Life happens and you get busy. A disruption isn't a failure; it's an opportunity for you to evaluate, adjust and overcome. Don't think bad of yourself for missing a day or missing a daily goal. Use it as a learning experience to learn from and adjust accordingly. That's why it's important to [clearly define goals](#settings-goals-is-experimenting) to have a clear conditions for failure and success. You need failure to learn and grow from and success to see what works. Being able to do something for a long periods of time consistently is realizing and practising this. 
 
 #### <span style="color: var(--md-typeset-a-color);">Squeezing in immersion time</span>
 

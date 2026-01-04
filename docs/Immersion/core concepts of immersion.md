@@ -4,11 +4,11 @@
 
 Because of this guide’s general approach, I can’t pinpoint a specific level at which you can or should start immersion. Even for a specific language, it is still hard to identify and define a level of proficiency that is best suited for diving into easy native material. As such, I can only say: **You start when you feel ready**.
 
-This could be after having learned the most frequent 1000 words in a language and having read through basic grammar guides. This could be done after having learned your target language to some extent in school or in language classes and you feel comfortable enough to engage with native material. This could be done after having gone through courses on websites where you learn basic phrases, grammar and vocabulary. All what matters is you having a **decent foundation in the target language**.
+This could be after having learned the most frequent 1000 words in a language and having read through basic grammar guides. This could be done after having learned your target language to some extent in school or in language classes and you feel comfortable enough to engage with native material. This could be done after having gone through courses on websites where you learn basic phrases, grammar and vocabulary. All what matters is you having a **decent and rough foundation in the target language**.
 
 The cleanest and most recommended path to establish said foundation is by having done an Anki deck of the most frequent used words, while having done basic grammar study alongside. If you have some experience with your target language already then going through such an Anki deck and basic grammar study nonetheless doesn't hurt. 
 When doing these start Anki decks, it's best to not learn any vocab but actually frequently used vocab first, because it eases your way into doing immersion. The more frequent words you know the easier your first immersion experience will be. Same goes for grammar, the more you know about your target language's grammar the easer time you will have to parse and understand it.
-Although this doesn't mean you should learn tons of vocab as in in the thousands and memorize every grammar pattern there is to begin with. The goal in this stage is to get a **decent and rough foundation** not memorize the target language. 
+Although this doesn't mean you should learn tons of vocab as in in the thousands and memorize every grammar pattern there is to begin with. The goal in this stage is to get a **decent and rough foundation** not memorize the target language. [:octicons-arrow-right-24: A disclaimer for grammar](roadmap.md#a-disclaimer-for-grammar)
 
 !!! note "Language specific requirements"
     
@@ -18,7 +18,7 @@ Although this doesn't mean you should learn tons of vocab as in in the thousands
     
     - You know around 1000-1500 words. You could start off with less than 1k words as well but I wouldn't recommend it.
 
-    - You have a rough understanding of your target language's grammar. You can name and recognize things like basic grammar particles and explain how they work. You have a rough idea how of sentence structure and how your target language works.
+    - You have a rough understanding of your target language's grammar. You can name and recognize things like basic grammar particles and explain how they work. You have a rough idea of how sentence structure and how your target language works.
     
     Combining these two factors builds a foundation comfortable enough to start immersing. 
 
@@ -76,9 +76,12 @@ Sentence C with n unknown pieces of information (i+n):
 
 - "Her brother энесе тыныч һәм reserved торса да, Maria бик сөйләмчәк иде. Ул кичке аш вакытында озын-озын детальле хикәяләр сөйләгән, easily strangers белән сөйләшкән and always having an opinion to share."
 
-Now how did you feel when reading through these kind of sentences? 
+**Now how did you feel when reading through these kind of sentences?**
+
 For sentence A, you were maybe a bit lost but overall you could probably understand what the sentence was generally about. Given the context you could infer that "торса да" means something like "although" or "while".
+
 For sentence B, you were maybe more confused but still hanging on. It's more challenging but you could still infer that "сөйләгән" would mean something like "to talk/to tell". If you had a dictionary you could very well look up what you don’t know and understand the overall meaning or maybe the whole sentence.
+
 While for the i+n sentence, you probably felt overwhelmed and lost. Even a dictionary wouldn't help at that point to understand the overall meaning of the sentence. There is just too much ambiguity to use the sentence, or context, to infer some kind of meaning. This is no longer comprehensible but just whitenoise.
 
 ---
@@ -108,7 +111,10 @@ For example with vocabulary, let’s say one time you encounter a word in a cont
 
 This is what learners who do immersion describe sometimes as magic. Even though you didn't consciously sit down to learn something specific for example a grammar pattern, you have developed a feeling or rather intuition how it’s used and what it means, without knowing any rules why it does the things it does. And this is basically the same feeling we have with our native language, we might not be able to explain why something is right but we *feel* it’s right we know it sounds or looks right. 
 
-Take this sentence, for example: “The proposal didn’t end up being acted upon.”
+Take this sentence, for example: 
+
+“The proposal didn’t end up being acted upon.”
+
 Now try identifying all the word classes.
 If you immediately recognized that this sentence contains a non-finite progressive passive formed with the “act upon” + preposition construction, combined with the strictly intransitive main predicate “end up ~” and the negated past-tense auxiliary “didn’t,” then awesome, good job! But most native speakers couldn’t break it down like that.
 Does that mean they “don’t really know” English? Of course not. They don’t need to know this and be able to recall grammatical labels or analyze structures on the spot. They can use the language naturally and effortlessly because the patterns are already wired into their intuition through immersion. They just know it **intuitively**.

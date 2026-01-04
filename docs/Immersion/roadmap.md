@@ -180,8 +180,14 @@ However it is pretty clear that active listening does helps. Active listening re
 
 ## A disclaimer for grammar
 
-To start immersion, it is enough to familiarize yourself with basic grammar patterns and sentence structure of your target language. 
-Further grammar study should be done periodically as you encounter new grammar structures through immersion.
+To start immersion, it is enough to familiarize yourself with basic grammar patterns and sentence structure of your target language. Feel free to jump between different grammar resources and see what works for yourself. The goal of the [initial stage](core concepts of immersion.md#when-to-start-immersion) before immersion is not to understand grammar completely and fully. What matters is a rough and basic enough foundation to get you started. Don't [get lost in the technical of choosing the best grammar](#input-is-the-reward-not-the-means) at the beginning, and just pick something you like. You'll solidify and *acquire* grammar later through immersion anyways because of [the "magic" in immersion](core concepts of immersion.md#the-magic-in-immersion).
+
+!!! success "Further grammar study"
+    Further grammar study should be done periodically as you encounter new grammar structures through immersion.
+
+!!! info "Intermediate Learners"
+
+    This section is targeted at "intermediate" learners.
 
 If you plan to sit an general language proficiency exam in your target language that tests you on grammar, then I'd recommend to do some traditional grammar study, by using books and online grammar guides for your language. 
 
