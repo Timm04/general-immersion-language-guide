@@ -57,10 +57,14 @@ At that point you can pick up words perfectly fine like you can do with your nat
 
 ## How many new cards should you do
 
-General rule of thumb:
-As many as your retention allows you to. Aim for at least 80% retention, anything above 90% is optimal. 
-If your retention is below 80% then do less cards.
-If your retention is above 90% then you can raise the amount of new cards or continue doing the same amount.
+!!! success "General rule of thumb"
+    As many as your retention allows you to. 
+    
+    - Aim for at least 80% retention, anything above 90% is optimal. 
+    
+    - If your retention is below 80% then do less cards.
+    
+    - If your retention is above 90% then you can raise the amount of new cards or continue doing the same amount.
 
 For beginners:
 
