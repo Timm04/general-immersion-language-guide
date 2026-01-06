@@ -200,5 +200,4 @@ Starting with ony listening is like trying to assemble a complex puzzle without 
 
 ---
 
-
-
+*[i+1]: one unknown piece of information

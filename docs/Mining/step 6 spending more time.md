@@ -61,3 +61,5 @@ Spending too much time on a sentence will just give you mental fatigue and demot
     [:octicons-arrow-right-24: Move on](step 7 move on.md#move-on)
 
 </div>
+
+*[i+1]: one unknown piece of information

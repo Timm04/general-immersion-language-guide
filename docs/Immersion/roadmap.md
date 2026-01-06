@@ -330,3 +330,4 @@ Care for your health. Sleep enough. Stay hydrated. Get fresh air. Do some exerci
 
 *[SRS]: Space repetition system
 *[high-quality engagement]: Motivation, energy, sustainability
+*[i+1]: one unknown piece of information

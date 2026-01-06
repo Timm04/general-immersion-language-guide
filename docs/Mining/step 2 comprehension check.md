@@ -71,3 +71,5 @@ In our [ratio](../Immersion/core concepts of immersion.md#the-ratio) of 80-85% c
 </div>
 
 ---
+
+*[i+1]: one unknown piece of information

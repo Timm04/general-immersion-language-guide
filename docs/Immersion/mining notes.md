@@ -118,3 +118,5 @@ You will probably be "dictionary diving" and looking up words within dictionarie
 </div>
 
 ---
+
+*[i+1]: one unknown piece of information
