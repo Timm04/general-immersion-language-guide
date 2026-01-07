@@ -1,5 +1,29 @@
 # The traditional method
 
+!!! tldr ""
+
+    - Traditional method: grammar drills, exams first, one size fits all pace and approach.
+
+    - More exam orientated than language learning. Terrible for long term language skills like graduates not actually using the language.
+
+    - Pros: teacher, classmates, clear milestones (exams)
+
+    - Cons: most often forced learning, personally uninteresting texts, fixed learning pace, "inert" knowledge.
+
+    - Bottom line: If your goal is a high level then leave boring texts books behind and exercises behind and jump into native content for natives you care about.
+
+Further reading:
+
+[1. :octicons-arrow-right-24: Goals of the traditional method](#goals-of-the-traditional-method)
+
+[2. :octicons-arrow-right-24: Foreign language attrition](#foreign-language-attrition)
+
+[3. 4. :octicons-arrow-right-24: Merits and demerits of the traditional method](#merits-and-demerits-of-the-traditional-method)
+
+[4. :octicons-arrow-right-24: How much time should you spent per card](#how-much-time-should-you-spent-per-card)
+
+[5. :octicons-arrow-right-24: The bottom line](#the-bottom-line)
+
 ## The traditional method
 
 ![classroomimg](../assets/images/benkyou_classroom.png)

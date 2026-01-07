@@ -26,6 +26,12 @@ Further reading:
 
 ---
 
+!!! note "Terminology for this section"
+
+    High frequency word = a word that is rarely used
+    
+    Low frequency word = a word that is commonly used
+
 ## How to use Anki for Immersion
 
 You will never not forget information. To put it more simply one will always forget things. Thats the baseline of how things are. If you learn something then do nothing with it you will eventually forget it. Thats why we need Anki to remember things in the long term. 
@@ -47,7 +53,13 @@ Immerse.
 
 ## I finished my reviews in Anki should I do a custom study and do more reviews for the day?
 
-You can but that time you spend reviewing what you already know is better spent immersing and learning new things.
+I strongly advice against doing a custom study in Anki. 
+
+It really messes with Anki's SRS system and can even affect your reviews. Let's say a card has a 100 day interval and would have been due to review in 99 days. If you were to review it with a custom study today, Anki would forget the 100 day interval and schedule the card earlier than it should be regardless whether you got it right or wrong.
+
+The time you spend doing a custom study is better spent immersing and learning new things.
+
+Unless you have an exam and want to quickly go through for example your grammar deck, then that's fine.
 
 ---
 
@@ -148,3 +160,5 @@ For example if you mine 100 words today and do 10 new cards in Anki then you got
 Suspend or delete them. You'll probably encounter that expression through immersion again and again.
 
 ---
+
+*[SRS]: Space repetition system

@@ -1,3 +1,34 @@
+!!! tldr ""
+
+    - Don't envy others. Don't be harsh on yourself. Doubt is normal, immerse regardless that's when strength grows.
+
+    - Set your own numbers and goals (track a week → divide by 7 for your daily average, keep aiming higher); ignore everyone else’s numbers.
+
+    - Anchor your goals with a daily habit ("After I wake up, I do my Anki.")
+
+    - Break goals down so they are more achievable (e.g. splitting reading sessions into 25 minutes each)
+
+    - See failure as a learning opportunity to adjust and learn from. Failure is part of the process.
+
+    - Squeeze time in between mundane tasks when busy.
+
+Further reading:
+
+[1. :octicons-arrow-right-24: Preliminary thoughts](#preliminary-thoughts)
+
+[2. :octicons-arrow-right-24: Settings goals is experimenting](#settings-goals-is-experimenting)
+
+[3. :octicons-arrow-right-24: Transform a goal into a habit](#transform-a-goal-into-a-habit)
+
+[4. :octicons-arrow-right-24: Break goals down](#break-goals-down)
+
+[5. :octicons-arrow-right-24: Celebrate yourself](#celebrate-yourself)
+
+[6. :octicons-arrow-right-24: Disruptions as learning opportunity](#disruptions-as-learning-opportunity)
+
+[6. :octicons-arrow-right-24: Squeezing in immersion time](#squeezing-in-immersion-time)
+
+
 ## Routine management in Immersion
 
 From the earlier sections, we now understand that freedom plays a big role in immersion. Being able to carve out your own path by being the one who chooses what to immerse with and from what to learn puts you in the role of being in charge. You are responsible for yourself. Especially when it comes to undertaking something as big as teaching yourself a new language. 
@@ -11,7 +42,7 @@ Don't be harsh on yourself. Be more self compassionate towards you. Every time y
 
 ### <span style="color: var(--md-typeset-a-color);">Motivation is important</span>
 
-Almost anything can be solved by just being motivated enough. You don't need to meticulously engineer your environment to make you more likely to build habits and achieve your goals. If you are motivated enough then you don't need that since well you are motivated and don't have an excuse or reason; you just do it.
+Almost anything can be solved by just being motivated enough. You don't need to engineer your environment to make you more likely to build habits and achieve your goals. If you are motivated enough then you don't need that since well you are motivated and don't have an excuse or reason; you just do it.
 
 These are just suggestions for you to be more consistent. You can totally do immersion and acquire your target language without any concretely defined routine. Routines for work some, for some they break and thats all normal, most importantly with language learning (immersion) your job is to show up i.e be consistent. Personally I didn't set fixed time, I essentially just filled any free time where I didn't have other plans with immersion. As long as you can sustain you're good. The easiest way to do that is being motivated and enjoying the process. 
 
