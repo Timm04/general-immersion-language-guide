@@ -8,9 +8,7 @@
 
     4. Motivation is the most important aspect. To learn a language you need to put in hours in the thousands to be proficient and being motivated gets you there.
 
-    5. Analyze and break apart *most* of the time but move on after a max of 3 minutes per sentence.
-
-    6. Immersion is a hike you embark on being guided by **your own** interests. It's **your** journey that has no time limit nor is supposed to meet arbitrary standards you should full fill. Everybody's lifestyle, circumstances, goals and motivations are different thus shaping how each person learns a language. There is noting wrong or to feel bad about in that.
+    5. Immersion is a hike you embark on being guided by **your own** interests. It's **your** journey that has no time limit nor is supposed to meet arbitrary standards you should full fill. Everybody's lifestyle, circumstances, goals and motivations are different thus shaping how each person learns a language. There is noting wrong or to feel bad about in that.
 
 Further reading:
 
@@ -22,7 +20,7 @@ Further reading:
 
 [4. :octicons-arrow-right-24: Judge your own motivation - Look inward](#judge-your-own-motivation-look-inward)
 
-[6. :octicons-arrow-right-24: Essence of immersion - Learn and hike](#essence-of-immersion-learn-and-hike)
+[5. :octicons-arrow-right-24: Essence of immersion - Learn and hike](#essence-of-immersion-learn-and-hike)
 
 ---
 
