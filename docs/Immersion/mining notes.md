@@ -1,3 +1,7 @@
+!!! tldr ""
+
+    *summary to be added*
+
 ## An Overview of Mining
 
 <figure markdown="span", class="miningoverview-img">
