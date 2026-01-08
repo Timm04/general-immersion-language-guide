@@ -65,7 +65,7 @@ Essentially you learned the word through context using your existing knowledge. 
 
 In reality, coming by true i+1 sentences where you know almost everything except for one word or phrase is rare. Which is why we need to add more leeway to the limitation i+1 gives us.
 
-We are going to expand on the concept of i+1 by allowing ourself to not only have one missing piece of information in a given sentence but perhaps multiple. Meaning we would be exposed to more ambiguity. Using the example from before, [What "comprehensible enough" means](#what-comprehensible-enough-means-i1), sentences could look like this
+We are going to expand on the concept of i+1 by allowing ourself to not only have one missing piece of information in a given sentence but perhaps multiple. Meaning we would be exposed to more ambiguity. Using [the example from before](#example-sentence), sentences could look like this
 
 === "Sentence A with i+2" 
 
