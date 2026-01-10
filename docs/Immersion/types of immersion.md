@@ -10,7 +10,7 @@
     
     4. Focusing only on listening at the beginning will give you great pronunciation and good conversation skills, but you'll be limited by basic vocab and poor reading ability. 
 
-    5. The consequence: You reach a brick wall you can't break through because you lack the rich mental model of the language only reading can give you.
+    5. The consequence: You reach a brick wall you can't break through because you lack the rich mental model of the language only reading can provide you.
 
     6. Just reading more solves most if not all problems. Reading and Listening are not two separate skills. You could say reading builds the mental model and listening uses that model. Mix both for best results.
 

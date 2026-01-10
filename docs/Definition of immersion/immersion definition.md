@@ -4,9 +4,9 @@
 
     2. "Comprehensible enough and enjoyable": Two factors that motivate and make your time learning the language easier. They're are really important!
 
-    3. Immersion is the improved version of the native approach: You acquire fluency faster and you have fun while doing it
+    3. Immersion is the improved version of the native approach: You acquire fluency faster and you have fun while doing it.
 
-    4. Immersion: consuming content made by natives for natives that is comprehensible enough, enjoyable and somewhat challenging. Immersion has to be done consistently!.
+    4. Immersion: consuming content made by natives for natives that is comprehensible enough, enjoyable and somewhat challenging. Immersion has to be done consistently!
 
 Further reading:
 
@@ -18,7 +18,7 @@ Further reading:
 
 [5. :octicons-arrow-right-24: Key takeaways](#key-takeaways)
 
-## What Immersion tries to achieve
+## What immersion tries to achieve
 
 Immersion is by design aiming to make you reach native level in your target language. By consistently following it you will pick up the language as well as nuances in grammar, word usage, pronunciation and readings without you having realized you learned them consciously. Most of the time while immersing you don't realize or feel like you are actually learning something, but you actually are, albeit unconsciously. You probably heard of the brain being referred to as a sponge and we are capitalizing on that with immersion, where we consistently expose ourself to the language in large comprehensible amounts for our brain to acquire the language naturally. 
 

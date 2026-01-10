@@ -10,7 +10,7 @@
 
     4. Cons: most often forced learning, personally uninteresting texts, fixed learning pace, "inert" knowledge.
 
-    5. Bottom line: If your goal is a high level then leave boring texts books and exercises behind and jump into content made by natives for natives you are interested in.
+    5. Bottom line: If your goal is a high level then leave boring textbooks and exercises behind and jump into content made by natives for natives you are interested in.
 
 Further reading:
 
